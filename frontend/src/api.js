@@ -1,5 +1,5 @@
 // Change this if your backend runs on a different host/port
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://hireiq-production-d0b1.up.railway.app";
 
 export async function analyzeCandidate(jobDescription, githubUsername, resumeFile) {
   const formData = new FormData();

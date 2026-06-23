@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HireIQ — Autonomous Multi-Agent Hiring Assistant
 
 Recruiter uploads a Job Description + Candidate Resume (PDF) + optional GitHub username.
@@ -111,3 +112,7 @@ hireiq/
 - Polish UI — add loading spinners, color-coded score bars
 - Add error handling for malformed PDFs
 - Prepare your 3-minute demo script using 1-2 best sample resumes
+=======
+# hireiq
+HireIQ — Autonomous Multi-Agent AI Hiring Assistant. 4 AI agents (Planner, Researcher, Critic, Tester) collaboratively evaluate candidates against a job description and generate a final hiring score. Built with FastAPI, React, and Google Gemini API.
+>>>>>>> db96356c826f9886401fae746a258a9180618073
