@@ -1,0 +1,18 @@
+Job Title: Full Stack Developer
+
+We are looking for a Full Stack Developer to join our growing product team.
+
+Required Skills:
+- React.js (building responsive UI components)
+- Node.js and Express for backend APIs
+- MongoDB for database design
+- Git/GitHub for version control
+- Strong communication skills for cross-team collaboration
+
+Experience: 1-3 years
+
+Responsibilities:
+- Build and maintain web application features end-to-end
+- Collaborate with designers and backend engineers
+- Write clean, maintainable, well-tested code
+- Participate in code reviews

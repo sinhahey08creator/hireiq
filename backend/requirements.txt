@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+google-genai
+pdfplumber
+requests
+python-dotenv
+
+# For running test_pipeline_mock.py / test_server_live.py (optional, dev-only)
+httpx

@@ -1,0 +1,17 @@
+Job Title: Frontend Developer
+
+We are looking for a detail-oriented Frontend Developer to craft delightful user interfaces.
+
+Required Skills:
+- React.js and modern JavaScript (ES6+)
+- HTML5 and CSS3 (responsive design)
+- Familiarity with Figma for design handoff
+- Basic understanding of REST APIs
+- Eye for clean, pixel-perfect UI
+
+Experience: 0-2 years
+
+Responsibilities:
+- Build responsive, accessible web interfaces
+- Translate Figma designs into working React components
+- Collaborate closely with designers and backend developers

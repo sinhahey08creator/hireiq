@@ -1,0 +1,18 @@
+Job Title: Backend Developer
+
+We need a Backend Developer to design and scale our core services.
+
+Required Skills:
+- Python with Django or FastAPI
+- PostgreSQL or other relational databases
+- Docker for containerization
+- REST API design
+- Understanding of system design fundamentals
+
+Experience: 2-4 years
+
+Responsibilities:
+- Design and build scalable backend services
+- Optimize database queries and performance
+- Write unit and integration tests
+- Deploy and monitor services in production

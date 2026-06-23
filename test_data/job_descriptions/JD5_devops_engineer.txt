@@ -1,0 +1,18 @@
+Job Title: DevOps Engineer
+
+We are seeking a DevOps Engineer to strengthen our infrastructure and deployment pipelines.
+
+Required Skills:
+- AWS (EC2, S3, IAM)
+- Docker and Kubernetes
+- CI/CD pipelines (GitHub Actions or Jenkins)
+- Linux system administration
+- Scripting (Bash or Python)
+
+Experience: 2-5 years
+
+Responsibilities:
+- Maintain and improve CI/CD pipelines
+- Manage cloud infrastructure and costs
+- Ensure system reliability and monitoring
+- Automate deployment processes

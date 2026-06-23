@@ -1,0 +1,16 @@
+# Secret keys — KABHI GITHUB PE PUSH MAT KARO
+backend/.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Node modules (bahut bada folder hai, zaroorat nahi)
+frontend/node_modules/
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db

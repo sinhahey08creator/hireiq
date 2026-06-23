@@ -1,0 +1,17 @@
+Job Title: Data Analyst
+
+We are hiring a Data Analyst to help drive data-informed decisions across the company.
+
+Required Skills:
+- Python (Pandas, NumPy) for data analysis
+- SQL for querying large datasets
+- Excel for reporting
+- Power BI or Tableau for dashboards
+- Strong analytical and problem-solving skills
+
+Experience: 0-2 years (freshers welcome)
+
+Responsibilities:
+- Analyze business data and present actionable insights
+- Build dashboards for leadership reporting
+- Work with engineering teams to ensure data quality
